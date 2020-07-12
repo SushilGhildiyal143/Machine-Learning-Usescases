@@ -11,5 +11,9 @@ Negative Class | False Positive (FP) | True Negative (TN)
 
 
 Precision = TruePositives / (TruePositives + FalsePositives)
+
+
 Recall = TruePositives / (TruePositives + FalseNegatives)
+
+
 F-Measure = (2 * Precision * Recall) / (Precision + Recall)
