@@ -6,7 +6,9 @@ Regression and Classification problems
 
 
                | Positive Prediction | Negative Prediction
+               
 Positive Class | True Positive (TP)  | False Negative (FN)
+
 Negative Class | False Positive (FP) | True Negative (TN)
 
 
