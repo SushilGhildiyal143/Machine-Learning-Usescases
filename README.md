@@ -3,7 +3,7 @@ Regression and Classification problems
 
 1. House Price was predicted using Linear Regression (Regression algorithm).
 2. Breast Cancer was predicted using Logistic Regression (Classification algorithm).
-
+3. Gender Voice prediction using Support Vector Machine
 
                | Positive Prediction | Negative Prediction
                
